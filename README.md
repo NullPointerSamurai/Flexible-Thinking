@@ -185,6 +185,3 @@ The presentation includes detailed notes on each slide, providing additional con
 
 © University of Piraeus | Department of Digital Systems 2024
 
-## Contact
-
-For more information, please contact the University of Piraeus, Department of Digital Systems.
